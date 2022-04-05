@@ -1,0 +1,9 @@
+//フォルダ
+Gold	Program Files	C:\Program Files
+Gold	Program Files (x86)	C:\Program Files (x86)
+Gold	drivers-etc	C:\Windows\System32\drivers\etc
+//ドキュメント
+//ツール
+Black	コマンドプロンプト	cmd.exe
+Gray	電卓	calc.exe
+SkyBlue	メモ帳	notepad.exe

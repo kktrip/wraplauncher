@@ -1,0 +1,6 @@
+C:\Users\kazua\Documents\C#\wraplauncher\obj\Debug\net4.8\wraplauncher.csproj.AssemblyReference.cache
+C:\Users\kazua\Documents\C#\wraplauncher\obj\Debug\net4.8\wraplauncher.csproj.SuggestedBindingRedirects.cache
+C:\Users\kazua\Documents\C#\wraplauncher\obj\Debug\net4.8\MainWindow.g.cs
+C:\Users\kazua\Documents\C#\wraplauncher\obj\Debug\net4.8\wraplauncher_MarkupCompile.cache
+C:\Users\kazua\Documents\C#\wraplauncher\obj\Debug\net4.8\wraplauncher_MarkupCompile.lref
+C:\Users\kazua\Documents\C#\wraplauncher\obj\Debug\net4.8\App.g.cs
